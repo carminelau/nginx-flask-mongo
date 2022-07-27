@@ -1,0 +1,10 @@
+pymongo
+flask
+requests
+pycountry
+pandas
+flask_pymongo
+flask_cors
+pymongo[srv]
+openpyxl
+geojson
